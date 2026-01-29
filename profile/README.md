@@ -23,8 +23,9 @@ Explore our growing suite of packages:
 | Package | Description |
 |--------|-------------|
 | [`@dschz/solid-uplot`](https://github.com/dsnchz/solid-uplot) | A reactive SolidJS wrapper for [uPlot](https://github.com/leeoniya/uPlot), ideal for fast, lightweight time-series visualization. |
+| [`@dschz/solid-lightweight-charts`](https://github.com/dsnchz/solid-lightweight-charts) | [TradingView Lightweight Charts™](https://www.tradingview.com/lightweight-charts/) as SolidJS components. |
+| [`@dschz/solid-flow`](https://github.com/dsnchz/solid-flow) | SolidJS port of React/Svelte Flow - a node-UI builder. |
 | [`@dschz/solid-plaid-link`](https://github.com/dsnchz/solid-plaid-link) | Type-safe SolidJS integration for Plaid Link, enabling easy bank connectivity. |
-| [`@dschz/solid-create-script`](https://github.com/dsnchz/solid-create-script) | SolidJS-specific script loader built on top of `@dschz/load-script`. |
 | And more coming soon... |
 
 ---
@@ -40,7 +41,7 @@ Explore our growing suite of packages:
 
 ## 🛠️ Roadmap Highlights
 
-- 📊 Port more charting libraries like ZingChart, React/Svelte Flow, and Nivo.
+- 📊 Port more charting libraries like Nivo.
 - 🧩 Build layout utilities and widget editors for dashboards.
 - 🧱 Native Solid components for financial, analytics, and productivity use cases.
 
